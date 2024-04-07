@@ -9,9 +9,6 @@
 2. Lancez le script main.py
 3. Enjoy.
 
-## Captures d'écran
+### Captures d'écran
 ![Capture d'écran 1](images/capture1.png)
 ![Capture d'écran 2](images/capture2.png)
-
-## Licence
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT) - voir le fichier [LICENSE](LICENSE) pour plus de détails.
