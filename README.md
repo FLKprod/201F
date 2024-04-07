@@ -1,6 +1,6 @@
 # 201 Farehein
 
-![201 Farehein Logo](images/logo201F.png)
+![201 Farehein Logo](images/Logo201F.png)
 
 201 Farehein est une parodie du célèbre jeu de mots "94 degrees". Explorez un monde rempli de défis, de questions hilarantes et de réponses surprenantes. Pouvez-vous atteindre le sommet de la pyramide de Farehein?
 
