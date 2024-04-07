@@ -21,7 +21,7 @@ while menu:
     pygame.init()
     largeur, hauteur = 1000, 600
     fenetre = pygame.display.set_mode((largeur, hauteur))
-    pygame.display.set_caption('CityQuizz')
+    pygame.display.set_caption('201 Fahrenheit')
 
     # Style des texte
     white = (255, 255, 255)
